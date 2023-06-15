@@ -17,4 +17,4 @@ By using the Program, you acknowledge that you have read and understood this dis
 If you do not agree with this disclaimer or any part of it, you should refrain from using the Program.
 
 # Contact Information
-If you have any questions or concerns regarding this disclaimer or the Program, please contact the Author at wendigo#4444 on Discord.
+If you have any questions or concerns regarding this disclaimer or the Program, please contact the Author at wendigo#4444 / ccse on Discord.
